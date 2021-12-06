@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on my PhD thesis.
 - 🌱 I’m currently learning DFT and bandstructure packages
-<!- 👯 I’m looking to collaborate on -->
 - 💬 Ask me about Solid state experimental physics and computational calculation of Semiconductor Bandstructure 
 - 
 
