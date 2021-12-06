@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my PhD thesis.
 - 🌱 I’m currently learning DFT and bandstructure packages
 - 💬 Ask me about Solid state experimental physics and computational calculation of Semiconductor Bandstructure 
-- 
+
 
 <!--
 **RUCO13/RUCO13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
