@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on my PhD thesis.
 - 🌱 I’m currently learning DFT and bandstructure packages
 - 💬 Ask me about Solid state experimental physics and computational calculation of Semiconductor Bandstructure 
+- 📫 How to reach me: ruizoscar.1393@gmail.com, oscarruiz@cactus.iico.uaslp.mx and oscar.ruiz@upspl.edu.mx
 
 
 <!--
