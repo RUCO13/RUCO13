@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great taste for computational physics 
 
 
 - 🔭 I’m currently working on my PhD thesis.
