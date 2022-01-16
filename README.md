@@ -7,8 +7,12 @@
 - 📫 How to reach me: ruizoscar.1393@gmail.com, oscarruiz@cactus.iico.uaslp.mx and oscar.ruiz@upspl.edu.mx
 - 👯 I collaborate in my research group led by [Dr. L.F. Lastras-Martinez](https://github.com/lflm-spectra-labs-iico) 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruco13&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruco13)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruco13&langs_count=8&theme=radical)](https://github.com/ruco13/github-readme-stats)
+
+
+
 
 
 
