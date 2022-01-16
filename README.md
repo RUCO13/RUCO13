@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great taste for computational physics 
-![Twitter Follow](https://img.shields.io/twitter/follow/RUCO0713?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/ruco0713?color=blue&logo=twitter&style=for-the-badge)
 
 - 🔭 I’m currently working on my PhD thesis.
 - 🌱 I’m currently learning DFT and bandstructure packages
