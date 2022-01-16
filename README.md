@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning DFT and bandstructure packages
 - 💬 Ask me about Solid state experimental physics and computational calculation of Semiconductor Bandstructure 
 - 📫 How to reach me: ruizoscar.1393@gmail.com, oscarruiz@cactus.iico.uaslp.mx and oscar.ruiz@upspl.edu.mx
-
+- 👯 I collaborate in my research group led by [Dr. L.F. Lastras-Martinez](https://github.com/lflm-spectra-labs-iico) 
 
 <!--
 **RUCO13/RUCO13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
