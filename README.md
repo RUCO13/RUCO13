@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great taste for computational physics 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ruco0713?color=blue&logo=twitter&style=for-the-badge)
-s
+
 - 🔭 I’m currently working on my PhD thesis and Teach Physics at [Universidad Politecnica de San Luis Potosi](https://www.upslp.edu.mx/upslp/)
 - 🌱 I’m currently learning DFT and bandstructure packages
 - 💬 Ask me about Solid state experimental physics and computational calculation of Semiconductor Bandstructure 
