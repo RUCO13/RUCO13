@@ -14,10 +14,6 @@
 <br>
 <a><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> </a>
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </a>
-<a><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
-"> </a>
-<a><img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white
-"> </a>
 </br>
 - 🔭 I’m currently working on my PhD thesis at [IICO/UASLP](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx) and Teach Physics at [Universidad Politecnica de San Luis Potosi](https://www.upslp.edu.mx/upslp/)
 - 🌱 I’m currently learning DFT and bandstructure packages
