@@ -49,12 +49,8 @@ Terminal<br>
 
 <br/>
 <p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=radical" width="200"></a>
-</p>
-
-<br/>
-<p align='center'>
-<a href="https://github.com/RUCO13/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=radical" width="200"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=radical" width="300" height="300"></a>
+<a href="https://github.com/RUCO13/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=radical" width="300" height="300></a>
 </p>
 
 
