@@ -47,10 +47,9 @@ Terminal<br>
 <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> </a>
 </h2>
 
-<br/>
 <p align='center'>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=radical" width="300" height="300"></a>
-<a href="https://github.com/RUCO13/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=radical" width="300" height="300></a>
+<a href="https://github.com/RUCO13/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=radical" width="300" height="200"></a>
 </p>
 
 
