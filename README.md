@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great taste for computational physics 
+<h1 align='center'> Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great taste for computational physics 
+</h1>
 
 - 🔭 I’m currently working on my PhD thesis at [IICO/UASLP](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx) and Teach Physics at [Universidad Politecnica de San Luis Potosi](https://www.upslp.edu.mx/upslp/)
 - 🌱 I’m currently learning DFT and bandstructure packages
@@ -10,7 +11,6 @@
 <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </a>
 <a><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"> </a>
 <a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
-<br>
 ### Programming
 <a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> </a>
 <a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
@@ -20,16 +20,12 @@
 <a><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"> </a>
 <a><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> </a>
 <a><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> </a>
-<br>
 ### Frameworks
 <a><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> </a>
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </a>
-</br>
-<br>
 ### Terminal
 <a><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> </a>
 <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> </a>
-</br>
 
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=radical)
 
