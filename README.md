@@ -48,10 +48,10 @@ Terminal<br>
 </h2>
 
 <p align="center">
-<a href="https://github.com/RUCO13/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=radical" width="300" />
 </a>
-<a href="https://github.com/RUCO13/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=radical&layout=compact" width="300"/>
 </a>
 </p>
