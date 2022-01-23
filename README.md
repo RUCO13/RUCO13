@@ -1,11 +1,22 @@
 <h1 align='center'> Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great taste for computational physics 
 </h1>
 
+<p align='center'>
 - 🔭 I’m currently working on my PhD thesis at [IICO/UASLP](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx) and Teach Physics at [Universidad Politecnica de San Luis Potosi](https://www.upslp.edu.mx/upslp/)
 - 🌱 I’m currently learning DFT and bandstructure packages
 - 💬 Ask me about Solid state experimental physics and computational calculation of Semiconductor Bandstructure 
 - 📫 How to reach me: ruizoscar.1393@gmail.com, oscarruiz@cactus.iico.uaslp.mx and oscar.ruiz@upspl.edu.mx
 - 👯 I collaborate in my research group led by [Dr. L.F. Lastras-Martinez](https://github.com/lflm-spectra-labs-iico) 
+</p>
+
+<p align='center'>
+  💻 My workspace it's second hand OPTIPLEX 7010 <br/><br/>
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%203th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-quadro%20k600-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
 
 ### OS
 <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </a>
@@ -32,13 +43,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=radical)](https://github.com/RUCO13/github-readme-stats)
 
 
-<p align='center'>
-  💻 My workspace it's second hand OPTIPLEX 7010 <br/><br/>
-  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%203th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-quadro%20k600-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
 
 
 ## Follow me
