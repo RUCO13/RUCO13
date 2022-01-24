@@ -64,7 +64,7 @@ Follow me<br/>
 </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ruco13&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ruco13&theme=radical&layout=compact"/>
 </a>
 <br>
 <br>
