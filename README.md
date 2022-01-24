@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great taste for computational physics 
+<h1 align='center'> Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great taste for Computational Physics 
 </h1>
 
 <body>
@@ -8,6 +8,7 @@
 <li> 💬 Ask me about Solid state experimental physics and computational calculation of Semiconductor Bandstructure </li>
 <li> 📫 How to reach me: ruizoscar.1393@gmail.com, oscarruiz@cactus.iico.uaslp.mx and oscar.ruiz@upspl.edu.mx</li>
 <li> 👯 I collaborate in my research group led by <a href="https://github.com/lflm-spectra-labs-iico">Dr. L.F. Lastras-Martinez</a> </li>
+<li>⚛️<a href="https://scholar.google.es/citations?user=d5ygTH8AAAAJ&hl=es"> This is the list of my scientific publications</a>
 </ul>
 </body>
 <br/>
