@@ -11,6 +11,9 @@
 <li>⚛️<a href="https://scholar.google.es/citations?user=d5ygTH8AAAAJ&hl=es"> This is the list of my scientific publications</a>
 </ul>
 </body>
+
+<a href="https://wakatime.com/@2502acb2-1684-4597-a422-d30dfa6a2f67"><img src="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67.svg" alt="Total time coded since Jan 22 2022" /></a>
+
 <br/>
 <h2 align='center'>
  🖥️ My workspace is an OPTIPLEX 7010-second hand<br/>
