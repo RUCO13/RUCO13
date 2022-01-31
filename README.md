@@ -12,7 +12,7 @@
 </ul>
 </body>
 
-<a href="https://wakatime.com/@2502acb2-1684-4597-a422-d30dfa6a2f67"><img src="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67.svg" alt="Total time coded since Jan 22 2022" /></a>
+<a align='center' href="https://wakatime.com/@2502acb2-1684-4597-a422-d30dfa6a2f67"><img src="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67.svg?style=for-the-badge" alt="Total time coded since Jan 22 2022" /></a>
 
 <br/>
 <h2 align='center'>
@@ -67,8 +67,8 @@ Follow me<br/>
 </a>
 </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ruco13&theme=radical&layout=compact"/>
-</a>
-<br>
-<br>
+<h2 align='center'>
+Current projects<br/>
+<a href="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67/project/f72be288-905f-4146-8c86-b44cbc3784ef"><img src="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67/project/f72be288-905f-4146-8c86-b44cbc3784ef.svg" alt="phd-ssp"></a>
+<a href="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67/project/8b2b38e4-44b5-4af1-abf2-81507396fd87"><img src="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67/project/8b2b38e4-44b5-4af1-abf2-81507396fd87.svg" alt="bash-scripts"></a>
+</h2>
