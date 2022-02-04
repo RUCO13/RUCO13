@@ -68,4 +68,3 @@ Follow me<br/>
 </h2>
 
 
-<img src="https://wakatime.com/share/@RUCO13/9e548ded-0a9a-4a86-855f-5b8bf0015391.svg">
