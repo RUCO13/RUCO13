@@ -67,8 +67,6 @@ Follow me<br/>
 </a>
 </h2>
 
-<h2 align='center'>
-Current projects<br/>
-<a href="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67/project/f72be288-905f-4146-8c86-b44cbc3784ef"><img src="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67/project/f72be288-905f-4146-8c86-b44cbc3784ef.svg" alt="phd-ssp"></a>
-<a href="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67/project/8b2b38e4-44b5-4af1-abf2-81507396fd87"><img src="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67/project/8b2b38e4-44b5-4af1-abf2-81507396fd87.svg" alt="bash-scripts"></a>
-</h2>
+<figure><embed src="https://wakatime.com/share/@RUCO13/90a74547-02be-4ca4-b97d-4725de960df5.svg"></embed></figure>
+
+
