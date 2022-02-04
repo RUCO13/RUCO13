@@ -67,6 +67,5 @@ Follow me<br/>
 </a>
 </h2>
 
-<figure><embed src="https://wakatime.com/share/@RUCO13/90a74547-02be-4ca4-b97d-4725de960df5.svg"></embed></figure>
 
-
+<img src="https://wakatime.com/share/@RUCO13/9e548ded-0a9a-4a86-855f-5b8bf0015391.svg">
