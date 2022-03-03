@@ -59,7 +59,7 @@ Terminal<br>
 </a>
 
 <h2 align='center'>
-<a href="https://wakatime.com/@RUCO13"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dracula"
+<a href="https://wakatime.com/@RUCO13"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dracula&layout=compact"
 />
 </h2>
 
