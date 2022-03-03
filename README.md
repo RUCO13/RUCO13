@@ -58,6 +58,10 @@ Terminal<br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=radical&layout=compact" width="300"/>
 </a>
 
+<h2 align='center'>
+<a href="https://wakatime.com/@RUCO13"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dracula"
+/>
+</h2>
 
 <h2 align='center'>
 Follow me<br/>
