@@ -51,15 +51,15 @@ Terminal<br>
 <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> </a>
 </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/RUCO13">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=radical" width="300" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/RUCO13">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=radical&layout=compact" width="300"/>
 </a>
 
 <h2 align='center'>
-<a href="https://wakatime.com/@RUCO13"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dracula&layout=compact"
+<a href="https://wakatime.com/RUCO13"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical&layout=compact"
 />
 </h2>
 
@@ -70,3 +70,4 @@ Follow me<br/>
 <a href="https://www.instagram.com/ruco1393/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </h2>
+
