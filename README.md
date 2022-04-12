@@ -61,8 +61,7 @@ Terminal<br>
 </h2>
 
 <h2 align='center'>
-<a href="https://wakatime.com/RUCO13"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical&layout=compact width="400""
-/>
+<a href="https://wakatime.com/RUCO13"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical&layout=compact />
 </h2>
 
 <h2 align='center'>
