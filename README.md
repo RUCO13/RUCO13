@@ -53,10 +53,10 @@ Terminal<br>
 
 <h2 align='center'>
 <a href="https://github.com/RUCO13">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=radical" width="300" height="200" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=radical" width="370" height="200" />
 </a>
 <a href="https://github.com/RUCO13">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=radical&layout=compact" width="250" height="200" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=radical&layout=compact" width="310" height="200" />
 </a>
 </h2>
 
