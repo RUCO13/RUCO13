@@ -51,12 +51,14 @@ Terminal<br>
 <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> </a>
 </h2>
 
+<h2 align='center'>
 <a href="https://github.com/RUCO13">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=radical" width="300" />
 </a>
 <a href="https://github.com/RUCO13">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=radical&layout=compact" width="300"/>
 </a>
+</h2>
 
 <h2 align='center'>
 <a href="https://wakatime.com/RUCO13"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical&layout=compact"
