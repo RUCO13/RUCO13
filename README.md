@@ -51,17 +51,21 @@ Terminal<br>
 <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> </a>
 </h2>
 
-<a href="https://github.com/RUCO13">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=radical" width="370" height="200" />
-</a>
-<a href="https://github.com/RUCO13">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=radical&layout=compact" width="310" height="200" />
-</a>
 
-<h2 align='center'>
-<a href="https://wakatime.com/RUCO13"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical&layout=compact width="400""
-/>
-</h2>
+
+<table >
+<tr>
+ <td valign="top">
+ <img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark"/>
+ </td>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=dark"/>
+ </td>
+<td valign="top"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical"/> </td>
+</tr>
+</table>
+
 
 <h2 align='center'>
 Follow me<br/>
@@ -71,3 +75,14 @@ Follow me<br/>
 </a>
 </h2>
 
+
+
+
+<!-- <a href="https://github.com/RUCO13">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/RUCO13">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=dark"/>
+</a>
+<a href="https://wakatime.com/RUCO13"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical&layout=compact"
+/>  -->
