@@ -51,7 +51,7 @@ Terminal<br>
 <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> </a>
 </h2>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%" border="0">
 <tr>
 <td valign=top style="border-bottom-style: hidden;">
 <img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark" height="310"/></td>
@@ -64,15 +64,6 @@ Terminal<br>
 <td> </td>
 </tr>
 </table>
-
-<!-- <div>
- <img align=top src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark"/>
-<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=dark"/>
-<img align=top src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dark"/> 
-<div> -->
-
-
-
 
 <h2 align='center'>
 Follow me<br/>
