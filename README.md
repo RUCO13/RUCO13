@@ -59,9 +59,9 @@ Terminal<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=dark"/></td>
 </tr>
 <tr>
-<td rowspan=2>
+<td colspan=2>
 <a href="https://wakatime.com/RUCO13">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dark" height="310"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dark"/>
 </a></td>
 </tr>
 </table>
