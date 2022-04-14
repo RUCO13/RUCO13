@@ -53,13 +53,13 @@ Terminal<br>
 
 <table style="width: 100%" border="0">
 <tr>
-<td valign=top style="border-bottom-style: hidden;">
-<img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark" height="310"/></td>
-<td style="border-bottom-style: hidden;">
+<td colspan=2 >
+<img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark"/></td>
+<td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=dark"/></td>
 </tr>
 <tr>
-<td style="border-bottom-style: hidden;">
+<td colspan=2>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dark" height="310"/></td>
 <td> </td>
 </tr>
