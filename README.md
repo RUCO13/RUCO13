@@ -52,19 +52,29 @@ Terminal<br>
 </h2>
 
 
-
-<table >
-<tr>
+<!-- 
+<table cellpadding="0" >
+<tr style="padding: 0">
  <td valign="top">
  <img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark"/>
  </td>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=dark"/>
- </td>
-<td valign="top"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=dark"/></td>
+</tr>
+<tr style="padding: 0">
+<td valign="top">
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical"/> </td>
+<td></td>
 </tr>
 </table>
+ -->
+<div>
+ <img align=left src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark"/>
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=dark"/>
+<img align=top src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical"/> 
+<div>
+
+
 
 
 <h2 align='center'>
