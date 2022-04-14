@@ -54,14 +54,14 @@ Terminal<br>
 <table style="width: 100%" border="0">
 <tr>
 <td colspan=2 >
-<img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark" width="1000"/></td>
+<img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark" width="1020"/></td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=dark"/></td>
 </tr>
 <tr>
 <td colspan=2>
 <a href="https://wakatime.com/RUCO13">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dark"  width="1020"/>
 </a></td>
 <td>
 <h2 align='center'>
