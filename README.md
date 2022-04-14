@@ -51,28 +51,25 @@ Terminal<br>
 <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> </a>
 </h2>
 
-
-<!-- 
-<table cellpadding="0" >
-<tr style="padding: 0">
- <td valign="top">
- <img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark"/>
- </td>
-<td valign="top">
+<table style="width: 100%; border-collapse: collapse;">
+<tr>
+<td valign=top style="border-bottom-style: hidden;">
+<img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark" height="310"/></td>
+<td style="border-bottom-style: hidden;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=dark"/></td>
 </tr>
-<tr style="padding: 0">
-<td valign="top">
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical"/> </td>
-<td></td>
+<tr>
+<td style="border-bottom-style: hidden;">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dark" height="310"/></td>
+<td> </td>
 </tr>
 </table>
- -->
-<div>
- <img align=left src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark"/>
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=dark"/>
-<img align=top src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical"/> 
-<div>
+
+<!-- <div>
+ <img align=top src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark"/>
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=dark"/>
+<img align=top src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dark"/> 
+<div> -->
 
 
 
