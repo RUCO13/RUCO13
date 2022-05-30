@@ -54,9 +54,9 @@ Terminal<br>
 <table style="width: 100%" border="0">
 <tr>
 <td colspan=2 >
-<img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"width="900"/></td>
+<img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"width="400"/></td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=10&hide=html,POV-Ray SDL,PostScript,&langs_count=julia&theme=cobalt2" width="300" /></td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=10&hide=html,POV-Ray SDL,PostScript&langs_count=Julia,Bash&theme=cobalt2" width="310" /></td>
 </tr>
 <tr>
 <td colspan=2>
