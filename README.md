@@ -56,12 +56,12 @@ Terminal<br>
 <td colspan=2 >
 <img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=github_dark" width="1020"/></td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=10&hide=html,POV-Ray SDL,PostScript,&theme=github_dark"/></td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=10&hide=html,POV-Ray SDL,PostScript,&langs_count=julia&theme=github_dark"/></td>
 </tr>
 <tr>
 <td colspan=2>
 <a href="https://wakatime.com/RUCO13">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=github_dark&" width="1020"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=github_dark&hide=Other" width="1020"/>
 </a></td>
 <td>
 <h2 align='center'>
@@ -71,7 +71,6 @@ Follow me<br/>
 <a href="https://github.com/RUCO13">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.instagram.com/ruco1393/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </h2>
 </td>
