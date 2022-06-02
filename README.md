@@ -50,20 +50,6 @@ Terminal<br>
 <a><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> </a>
 <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> </a>
 </h2>
-
-<table style="width: 100%" border="0">
-<tr>
-<td colspan=2 >
-<img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"width="800"/></td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=10&hide=html,POV-Ray SDL,PostScript&langs_count=Julia,Bash&theme=cobalt2" width="310" /></td>
-</tr>
-<tr>
-<td colspan=2>
-<a href="https://wakatime.com/RUCO13">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=cobalt2&hide=Other" width="800"/>
-</a></td>
-<td>
 <h2 align='center'>
 Follow me<br/>
 <a href="https://twitter.com/RUCO0713">
@@ -71,6 +57,24 @@ Follow me<br/>
 <a href="https://github.com/RUCO13">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.instagram.com/ruco1393/">
+</h2>
+
+
+<table >
+<tr>
+<td>
+<a href="https://wakatime.com/RUCO13">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=cobalt2&hide=Other"width="470" height="400"/>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=10&hide=html,POV-Ray SDL,PostScript&langs_count=Julia,Bash&theme=cobalt2" width="400" height="400" /></td>
+</tr>
+<tr>
+<td colspan=2>
+<img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"width="1000"/></td>
+</a></td>
+<td>
+<h2 align='center'>
+
 </a>
 </h2>
 </td>
