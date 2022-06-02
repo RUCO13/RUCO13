@@ -61,23 +61,19 @@ Follow me<br/>
 
 
 
-<table border="0">
+<table width="100%" border="0">
 <tr>
-<td colspan=2 >
-<img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"width="800"/></td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=10&hide=html,POV-Ray SDL,PostScript&langs_count=Julia,Bash&theme=cobalt2" width="350" /></td>
+<td width="70%">
+<img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"/>
+</td>
+<td width="30%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=10&hide=html,POV-Ray SDL,PostScript&langs_count=Julia,Bash&theme=cobalt2"/>
+</td>
 </tr>
 <tr>
-<td colspan=2>
+<td width="50%">
 <a href="https://wakatime.com/RUCO13">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=cobalt2&hide=Other" width="700"/>
-</a></td>
-<td>
-<h2 align='center'>
-
-</a>
-</h2>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=cobalt2&hide=Other"/>
 </td>
 </tr>
 </table>
