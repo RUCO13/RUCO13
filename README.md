@@ -60,17 +60,18 @@ Follow me<br/>
 </h2>
 
 
-<table >
+
+<table border="0">
 <tr>
+<td colspan=2 >
+<img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"width="800"/></td>
 <td>
-<a href="https://wakatime.com/RUCO13">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=cobalt2&hide=Other"width="470" height="400"/>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=10&hide=html,POV-Ray SDL,PostScript&langs_count=Julia,Bash&theme=cobalt2" width="400" height="400" /></td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=10&hide=html,POV-Ray SDL,PostScript&langs_count=Julia,Bash&theme=cobalt2" width="350" /></td>
 </tr>
 <tr>
 <td colspan=2>
-<img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"width="1000"/></td>
+<a href="https://wakatime.com/RUCO13">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=cobalt2&hide=Other" width="700"/>
 </a></td>
 <td>
 <h2 align='center'>
@@ -78,7 +79,6 @@ Follow me<br/>
 </a>
 </h2>
 </td>
-
 </tr>
 </table>
 
