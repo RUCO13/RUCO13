@@ -17,7 +17,7 @@
 <br/>
 <h2 align='center'>
  🖥️ My workspace is an OPTIPLEX 7010-second hand<br/>
-  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/intel-core%20i5%203th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-quadro%20k620-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
