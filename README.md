@@ -58,8 +58,6 @@ Follow me<br/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </h2>
 
-
-
 <table width="100%" border="0">
 <tr>
 <td width="70%">
@@ -78,16 +76,6 @@ Follow me<br/>
 </tr>
 </table>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUCO13&theme=solarized_dark)
 
 
-
-
-
-<!-- <a href="https://github.com/RUCO13">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/RUCO13">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=8&hide=html,PostScript&theme=dark"/>
-</a>
-<a href="https://wakatime.com/RUCO13"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical&layout=compact"
-/>  -->
