@@ -64,8 +64,8 @@ Follow me<br/>
 <a href="https://wakatime.com/RUCO13">
 <img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"/>
 </td>
-<td width="30%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=10&hide=html,POV-Ray SDL,PostScript&langs_count=Julia,Bash&theme=cobalt2&exclude_repo=ruco-phd-project"/>
+<td width="27.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&langs_count=10&hide=html,POV-Ray SDL,PostScript&langs_count=Julia,Bash&theme=cobalt2&"/>
 </td>
 </tr>
 <tr>
