@@ -57,7 +57,7 @@ Follow me<br/>
 <a href="https://github.com/RUCO13">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </h2>
-
+<h2 align='center'>
 <table width="100%" border="0">
 <tr>
 <td width="100%" align="center">
@@ -77,5 +77,5 @@ Follow me<br/>
 </table>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUCO13&theme=solarized_dark)
-
+</h2>
 
