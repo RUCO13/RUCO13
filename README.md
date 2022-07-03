@@ -60,7 +60,7 @@ Follow me<br/>
 
 <table width="100%" border="0">
 <tr>
-<td width="100%">
+<td width="100%" align="center">
 <a href="https://wakatime.com/RUCO13">
 <img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"/>
 </td>
@@ -69,7 +69,7 @@ Follow me<br/>
 <!-- </td>
 </tr> -->
 <tr>
-<td width="100%">
+<td width="100%" align="center">
 <a href="https://wakatime.com/RUCO13">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=cobalt2"/>
 </td>
