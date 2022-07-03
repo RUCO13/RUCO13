@@ -60,16 +60,16 @@ Follow me<br/>
 
 <table width="100%" border="0">
 <tr>
-<td width="70%">
+<td width="100%">
 <a href="https://wakatime.com/RUCO13">
 <img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"/>
 </td>
-<td width="40%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&exclude_repo=ruco-phd-project&hide=html,jupyter notebook&theme=cobalt2"/>
-</td>
-</tr>
+<!-- <td width="40%"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&exclude_repo=ruco-phd-project&hide=html,jupyter notebook&theme=cobalt2"/> -->
+<!-- </td>
+</tr> -->
 <tr>
-<td width="50%">
+<td width="100%">
 <a href="https://wakatime.com/RUCO13">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=cobalt2"/>
 </td>
