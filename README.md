@@ -7,7 +7,7 @@
 <li> 🌱 I’m currently learning DFT and bandstructure packages</li>
 <li> 💬 Ask me about Solid state experimental physics and computational calculation of Semiconductor Bandstructure </li>
 <li> 📫 How to reach me: ruizoscar.1393@gmail.com, oscarruiz@cactus.iico.uaslp.mx and oscar.ruiz@upspl.edu.mx</li>
-<li>  I collaborate in Nanophotinics IICO's research group led by <a href="https://github.com/NanophotonIICOs"> Dr. R.E. Balderas-Navarro and L.F. Lastras-Martinez</a> </li>
+<li>  I collaborate in Nanophotonics IICO's research group led by <a href="https://github.com/NanophotonIICOs"> Dr. R.E. Balderas-Navarro and L.F. Lastras-Martinez</a> </li>
 <li>⚛️<a href="https://scholar.google.es/citations?user=d5ygTH8AAAAJ&hl=es"> This is the list of my scientific publications</a>
 </ul>
 </body>
