@@ -59,25 +59,39 @@ Follow me<br/>
 </h2>
 
 
-<h2 align='center'>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"/>
+</p>
+<p align="center">
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&hide=html&theme=cobalt2"/> -->
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=cobalt2"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUCO13&theme=solarized_dark"/>
+</p>
+
+
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUCO13&theme=solarized_dark) -->
+<!-- <h2 align='center'>
 <table width="100%" border="0">
 <tr>
 <td width="100%" align="center">
 <a href="https://wakatime.com/RUCO13">
 <img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"/>
-</td>
+</td> -->
 <!-- <td width="40%"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&exclude_repo=ruco-phd-project&hide=html,jupyter notebook&theme=cobalt2"/> -->
 <!-- </td>
 </tr> -->
-<tr>
+<!-- <tr>
 <td width="100%" align="center">
 <a href="https://wakatime.com/RUCO13">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=cobalt2"/>
 </td>
 </tr>
-</table>
+</table> -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUCO13&theme=solarized_dark)
-</h2>
+
+<!-- </h2> -->
 
