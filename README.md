@@ -68,6 +68,12 @@ Follow me<br/>
 </p>
 
 <p align="center">
+<a href="https://github.com/RUCO13?tab=repositories">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RUCO13&theme=dracula&hide_border=true"/>
+</p>
+
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUCO13&theme=solarized_dark"/>
 </p>
 
@@ -94,4 +100,6 @@ Follow me<br/>
 
 
 <!-- </h2> -->
+![](https://komarev.com/ghpvc/?username=RUCO13&style=for-the-badge&label=Visitors+Count&color=blue)
+
 
