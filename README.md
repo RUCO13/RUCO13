@@ -3,10 +3,10 @@
 
 <body>
 <ul align='left' style="font-size:2vw">
-<li> 🔭 I’m currently working on my PhD thesis at <a href="http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx">IICO/UASLP</a> and Teach Physics at <a href="https://www.upslp.edu.mx/upslp/"> Universidad Politecnica de San Luis Potosi</a></li>
-<li> 🌱 I’m currently learning DFT and bandstructure packages</li>
-<li> 💬 Ask me about Solid state experimental physics and computational calculation of Semiconductor Bandstructure </li>
-<li> 📫 How to reach me: ruizoscar.1393@gmail.com, oscarruiz@cactus.iico.uaslp.mx and oscar.ruiz@upspl.edu.mx</li>
+<li> :electron: I’m  PhD in Photonics from <a href="http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx">IICO/UASLP</a> and Teach Physics at <a href="https://www.upslp.edu.mx/upslp/"> Universidad Politecnica de San Luis Potosi</a></li>
+<li> :green_circle: I’m currently learning DFT and bandstructure packages</li>
+<li> :green_circle: Ask me about Solid state experimental physics and computational calculation of Semiconductor Bandstructure </li>
+<li> :green_circle: How to reach me: ruizoscar.1393@gmail.com, oscarruiz@cactus.iico.uaslp.mx and oscar.ruiz@upspl.edu.mx</li>
 <li>  I collaborate in Nanophotonics IICO's research group led by <a href="https://github.com/NanophotonIICOs"> Dr. R.E. Balderas-Navarro and L.F. Lastras-Martinez</a> </li>
 <li>⚛️<a href="https://scholar.google.es/citations?user=d5ygTH8AAAAJ&hl=es"> This is the list of my scientific publications</a>
 </ul>
