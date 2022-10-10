@@ -13,6 +13,7 @@
 </body>
 
 <a align='center' href="https://wakatime.com/@2502acb2-1684-4597-a422-d30dfa6a2f67"><img src="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67.svg?style=for-the-badge" alt="Total time coded since Jan 22 2022" /></a>
+![](https://komarev.com/ghpvc/?username=RUCO13&style=for-the-badge&label=Visitors+Count&color=blue)
 
 <br/>
 <h2 align='center'>
@@ -118,6 +119,5 @@
 
 
 <!-- </h2> -->
-![](https://komarev.com/ghpvc/?username=RUCO13&style=for-the-badge&label=Visitors+Count&color=blue)
 
 
