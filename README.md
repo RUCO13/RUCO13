@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great taste for Computational Physics 
+<h1 align='center'> Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great interest for Computational Physics
 </h1>
 
 <body>
@@ -79,11 +79,16 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true&theme=cobalt2"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUCO13&theme=dracula"/>
 </p>
+
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true"/>
+</p> -->
 <p align="center">
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&hide=html&theme=cobalt2"/> -->
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=cobalt2"/>
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dracula"/>
 </p>
 
 <p align="center">
@@ -92,9 +97,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUCO13&theme=solarized_dark"/>
-</p>
+
 
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUCO13&theme=solarized_dark) -->
