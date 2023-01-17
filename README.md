@@ -87,13 +87,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RUCO13&show_icons=true&include_all_commits=true"/>
 </p> -->
 <p align="center">
+<a href="https://wakatime.com/@RUCO13">
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&hide=html&theme=cobalt2"/> -->
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dracula"/>
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=dracula&langs_count=8&range=last_7_days&custom_title=Wakatime%20Stats%20(Last%207%20days)&layout=compact"/>
 </p>
 
 <p align="center">
 <a href="https://github.com/RUCO13?tab=repositories">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RUCO13&theme=dracula&hide_border=true"/>
+</p>
+
+<p align="center">
+<a href="https://wakatime.com/@RUCO13"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUCO13&theme=dracula&hide=HTML,Asymptote,jupyter%20notebook&langs_count=10&card_width=500"/>
 </p>
 
 
