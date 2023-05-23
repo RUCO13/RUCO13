@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great interest for Computational Physics
+<h1 align='center'> Hi there 👋 I'm Oscar an 🇲🇽 Experimental and Computational Solid State Physicist
 </h1>
 
 <body>
