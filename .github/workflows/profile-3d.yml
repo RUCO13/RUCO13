@@ -18,7 +18,6 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           excluded_languages: "Other, Jupyter Notebook"
           included_languages: "Julia"
-
       - name: Commit & Push
         run: |
           git config user.name github-actions
