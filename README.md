@@ -6,7 +6,7 @@
 <li> :electron: I’m  PhD in Photonics from <a href="http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx">IICO/UASLP</a> and Teach Physics at <a href="https://www.upslp.edu.mx/upslp/"> Universidad Politecnica de San Luis Potosi</a></li>
 <li> :green_circle: I’m currently learning DFT and bandstructure packages</li>
 <li> :green_circle: Ask me about Solid state experimental physics and computational calculation of Semiconductor Bandstructure </li>
-<li> :green_circle: How to reach me: ruizoscar.1393@gmail.com, oscarruiz@cactus.iico.uaslp.mx and oscar.ruiz@upspl.edu.mx</li>
+<li> :green_circle: How to reach me: ruizoscar.1393@gmail.com, oscarruiz@cactus.iico.uaslp.mx and oscar.ruiz@upslp.edu.mx</li>
 <li>  I collaborate in Nanophotonics IICO's research group led by <a href="https://github.com/NanophotonIICOs"> Dr. R.E. Balderas-Navarro </a> </li>
 <li>⚛️<a href="https://scholar.google.es/citations?user=d5ygTH8AAAAJ&hl=es"> This is the list of my scientific publications</a>
 </ul>
