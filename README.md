@@ -1,6 +1,23 @@
 <h1 align='center'> Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great interest for Computational Physics
 </h1>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <body>
 <ul align='left' style="font-size:2vw">
 <li> :electron: I’m  PhD in Photonics from <a href="http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx">IICO/UASLP</a> and Teach Physics at <a href="https://www.upslp.edu.mx/upslp/"> Universidad Politecnica de San Luis Potosi</a></li>
