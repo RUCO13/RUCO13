@@ -4,7 +4,6 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,8 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          excluded_languages: "Other, Jupyter Notebook"
-          included_languages: "Julia"
       - name: Commit & Push
         run: |
           git config user.name github-actions
