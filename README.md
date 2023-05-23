@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great interest for Computational Physics
+<h1 align='center'> Hi there 👋 I'm Oscar an 🇲🇽 Experimental and Computational Solid State Physicist
 </h1>
 
 <body>
@@ -7,7 +7,7 @@
 <li> :green_circle: I’m currently learning DFT and bandstructure packages</li>
 <li> :green_circle: Ask me about Solid state experimental physics and computational calculation of Semiconductor Bandstructure </li>
 <li> :green_circle: How to reach me: ruizoscar.1393@gmail.com, oscarruiz@cactus.iico.uaslp.mx and oscar.ruiz@upspl.edu.mx</li>
-<li>  I collaborate in Nanophotonics IICO's research group led by <a href="https://github.com/NanophotonIICOs"> Dr. R.E. Balderas-Navarro and L.F. Lastras-Martinez</a> </li>
+<li>  I collaborate in Nanophotonics IICO's research group led by <a href="https://github.com/NanophotonIICOs"> Dr. R.E. Balderas-Navarro </a> </li>
 <li>⚛️<a href="https://scholar.google.es/citations?user=d5ygTH8AAAAJ&hl=es"> This is the list of my scientific publications</a>
 </ul>
 </body>
