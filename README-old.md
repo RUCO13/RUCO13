@@ -1,6 +1,23 @@
 <h1 align='center'> Hi there 👋 I'm Oscar an 🇲🇽 Experimental Solid State Physicist with a great interest for Computational Physics
 </h1>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <body>
 <ul align='left' style="font-size:2vw">
 <li> :electron: I’m  PhD in Photonics from <a href="http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx">IICO/UASLP</a> and Teach Physics at <a href="https://www.upslp.edu.mx/upslp/"> Universidad Politecnica de San Luis Potosi</a></li>
@@ -11,9 +28,6 @@
 <li>⚛️<a href="https://scholar.google.es/citations?user=d5ygTH8AAAAJ&hl=es"> This is the list of my scientific publications</a>
 </ul>
 </body>
-<div align='center'>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
-</div>
 
 <a align='center' href="https://wakatime.com/@2502acb2-1684-4597-a422-d30dfa6a2f67"><img src="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67.svg?style=for-the-badge" alt="Total time coded since Jan 22 2022" /></a>
 ![](https://komarev.com/ghpvc/?username=RUCO13&style=for-the-badge&label=Visitors+Count&color=blue)
