@@ -18,14 +18,6 @@
 <a align='center' href="https://wakatime.com/@2502acb2-1684-4597-a422-d30dfa6a2f67"><img src="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67.svg?style=for-the-badge" alt="Total time coded since Jan 22 2022" /></a>
 ![](https://komarev.com/ghpvc/?username=RUCO13&style=for-the-badge&label=Visitors+Count&color=blue) -->
 
-<br/>
-<h2 align='center'>
- 🖥️ My workspace is an OPTIPLEX 7010-second hand<br/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/intel-core%20i5%203th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-quadro%20k620-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</h2>
 
 
 <table>
@@ -80,6 +72,20 @@
 </tr>
 </table>
 
+<br/>
+<h2 align='center'>
+ 🖥️ My workspace is an OPTIPLEX 7010-second hand<br/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intel-core%20i5%203th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-quadro%20k620-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</h2>
+
+<h2 align='center'>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical&size_weight=1&count_weight=1">
+</h2>
+
+
 
 <!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUCO13&theme=dracula"/>
@@ -102,5 +108,5 @@
 <!-- <p align="center">
 <a href="https://github.com/RUCO13?tab=repositories">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RUCO13&theme=dracula&hide_border=true"/>
-</p> -->
-
+</p>
+ -->
