@@ -1,14 +1,34 @@
 # Hi there! 👋 I'm Oscar, an Experimental and Computational Solid State Physicist from Mexico 🇲🇽
 
 ## About Me
+
+<div class="highlight">
+
 - :electron: I hold a PhD in Photonics from [IICO/UASLP](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx) and teach Physics at [Universidad Politecnica de San Luis Potosi](https://www.upslp.edu.mx/upslp/)
 - :green_circle: Currently, I'm focusing on learning DFT and bandstructure packages
 - :green_circle: Ask me anything about Solid State Experimental Physics and Computational Calculation of Semiconductor Bandstructures
 - :green_circle: You can reach me at:
   - Email: ruizoscar.1393@gmail.com, oscarruiz@cactus.iico.uaslp.mx, oscar.ruiz@upslp.edu.mx
-- :green_circle: I am the founder of the institutional repository <a href="https://github.com/NanophotonIICOs">NanophotonIICOs</a></li>
-
+- :green_circle: I am the founder of the institutional repository [NanophotonIICOs](https://github.com/NanophotonIICOs)
 - ⚛️ Here is a [list of my scientific publications](https://scholar.google.es/citations?user=d5ygTH8AAAAJ&hl=es)
+
+</div>
+
+
+
+<style>
+.highlight {
+  /* background-color: #ffffff; */
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 19px; 
+  font-family: "Roboto", sans-serif;
+  #line-height: 1.5; 
+  #color: #333; 
+}
+</style>
+
 
 
 ## Profile
@@ -86,3 +106,4 @@
 <h2 align='center'>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical&size_weight=1&count_weight=1">
 </h2>
+
