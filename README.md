@@ -2,7 +2,7 @@
 
 ## About Me
 
-<kbd style="font-size: 15px;">
+<kbd style="font-size: 19px;">
 
 - :electron: I hold a PhD in Photonics from [IICO/UASLP](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx) and teach Physics at [Universidad Politecnica de San Luis Potosi](https://www.upslp.edu.mx/upslp/)
 - :green_circle: Currently, I'm focusing on learning DFT and bandstructure packages
