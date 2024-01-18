@@ -11,8 +11,6 @@
 - ⚛️ Here is a [list of my scientific publications](https://scholar.google.es/citations?user=d5ygTH8AAAAJ&hl=es)
 
 
-
-
 ## Profile
 <p align='center'>
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" style="max-width: 100%;" />
@@ -77,13 +75,13 @@
 </table>
 <br/>
 
-<h2 align='center'>
+<!-- <h2 align='center'>
   🖥️ My workspace is an OPTIPLEX 7010 (second hand) <br/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/intel-core%20i5%203th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-quadro%20k620-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</h2>
+</h2> -->
 
 <h2 align='center'>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical&size_weight=1&count_weight=1">
