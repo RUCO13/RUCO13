@@ -26,7 +26,7 @@ I combine **experimental knowledge** with **advanced numerical methods** to expl
 Feel free to reach out if you want to collaborate, have questions, or share ideas:
 
 - 📧 ruizoscar.1393@gmail.com  
-- 📧 oscar.ruiz@upslp.edu.mx  
+- 📧 oscar.ruiz@uaslp.mx  
 - 🌐 [Google Scholar](https://scholar.google.es/citations?user=d5ygTH8AAAAJ&hl=es)
 
 ---
