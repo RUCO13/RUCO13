@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Oscar Ruiz-Cigarrillo, a Computational and Experimental Physicist 🇲🇽
+# 👋🏽 Hi there! I'm Oscar Ruiz-Cigarrillo, a Computational and Experimental Physicist 🇲🇽
 
-## 👨‍🔬 About Me
+## 🧔🏽‍♂️ About Me
 
 I’m a PhD in Photonics from the [Instituto de Investigación en Comunicación Óptica, UASLP](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx), with a strong background in **Solid State Physics** and **Condensed Matter Physics**. My research focuses on:
 
@@ -107,7 +107,7 @@ Feel free to reach out if you want to collaborate, have questions, or share idea
 </h2>
 
 
-## 🤝 Acknowledgements
+## 🤝🏽 Acknowledgements
 
 <p>We gratefully acknowledge the support provided by:</p>
 
