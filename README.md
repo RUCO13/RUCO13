@@ -4,10 +4,10 @@
 
 I’m a PhD in Photonics from the [Instituto de Investigación en Comunicación Óptica, UASLP](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx), with a strong background in **Solid State Physics** and **Condensed Matter Physics**. My research focuses on:
 
-- 🧠 **First-principles simulations** (DFT, GW, BSE)
-- ⚛️ **Many-Body Perturbation Theory**
-- 🌈 **Optical and magnetic properties** of nanostructured materials
-- 🖥️ **Computational materials science** and scientific computing
+- **First-principles simulations** (DFT, GW, BSE)
+- **Many-Body Perturbation Theory**
+- **Optical and magnetic properties** of nanostructured materials
+- **Computational materials science** and scientific computing
 
 I combine **experimental knowledge** with **advanced numerical methods** to explore the quantum behavior of low-dimensional semiconductor systems.
 
@@ -100,11 +100,20 @@ Feel free to reach out if you want to collaborate, have questions, or share idea
 </table>
 
 
+<p align="center">
+  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUCO13&theme=dracula" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/RUCO13?tab=repositories">
+    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=RUCO13&theme=dracula&hide_border=true" />
+  </a>
+</p>
 
 
-<h2 align='center'>
+<!-- <h2 align='center'>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RUCO13&theme=radical&size_weight=1&count_weight=1">
-</h2>
+</h2> -->
 
 
 ## 🤝🏽 Acknowledgements
@@ -113,12 +122,15 @@ Feel free to reach out if you want to collaborate, have questions, or share idea
 
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
   <div style="text-align: center;">
-    <img src="https://secihti.mx/wp-content/uploads/2024/12/logotipo_SCyT_color_803x97px_v02.svg" alt="SECTIHI Logo" style="height: 80px;">
+    <img src="logos/logo_secihti.svg" alt="SECTIHI Logo" style="height: 80px;">
     <p><strong>Secretaría de Ciencia, Humanidades, Tecnología e Innovación</strong></p>
   </div>
-  
   <div style="text-align: center;">
-    <img src="http://registro.lnsa.buap.mx/imagenes/LNS.png" alt="LNS Logo" style="height: 80px;">
+    <img src="logos/lns.svg" alt="LNS Logo" style="height: 80px;">
     <p><strong>Laboratorio Nacional de Supercómputo del Sureste de México</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="logos/logo-cns.png" alt="LNS Logo" style="height: 80px;">
+    <p><strong>Centro Nacional de Supercómputo IPICYT</strong></p>
   </div>
 </div>
