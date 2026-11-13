@@ -1,4 +1,4 @@
-# 👋🏽 Hi there! I'm Oscar Ruiz-Cigarrillo, a Computational and Experimental Physicist 🇲🇽
+# 👋🏽  there! I'm Oscar Ruiz-Cigarrillo, a Computational and Experimental Physicist 🇲🇽
 
 ## 🧔🏽‍♂️ About Me
 
